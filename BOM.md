@@ -8,6 +8,6 @@ Scheda SD|1|-|-|-|No
 Display|1|-|-|-|No
 Cavo HDMI|1|-|-|-|No|Acquistabile insieme a Raspberry
 ESP8266|1|-|-|-|No
-Anemometro|1|-|-|-|No|Inutile se risolta [Issue #1](https://github.com/metis-vela-unipd/telemetry-esp-wind/issues/1)
+Anemometro|1|-|-|-|No|Inutile se risolta questa [Issue](https://github.com/metis-vela-unipd/telemetry-esp-wind/issues/1)
 
 *Tempi di spedizione stimati
