@@ -2,8 +2,8 @@
 
 Prodotto|Q.tà|Prezzo|Link|Acquistato|Note
 --------|----|------|----|----------|----
-Raspberry Pi + SD + Alimentatore|1|€76,87|[Amazon](https://www.amazon.it/RASPBERRY-PI-Model-Kit-GB/dp/B07TKB6PN4/ref=sr_1_6?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=GC3P8H9J9EFT&keywords=raspberry+pi+4+2gb&qid=1575906470&sprefix=raspberry+pi+4+2%2Caps%2C189&sr=8-6)|No
-Power Bank|1|€19,99|[Amazon](https://www.amazon.it/POWERADD-EnergyCell-Caricabatterie-Portatile-dispositivi/dp/B07K255XJS/ref=sr_1_20?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1NUWQT5CPTZ01&keywords=powerbank+type-c&qid=1575985819&smid=A28QVT3E6UV0FU&sprefix=powerbank+type%2Caps%2C185&sr=8-20)|No
-Display|1|€40,00|[Amazon](https://www.amazon.it/GeeekPi-Screen-Display-Monitor-Raspberry/dp/B01M9CLIP9/ref=sr_1_6?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=display+raspberry+7+in&qid=1575906280&sr=8-6)|No
+Raspberry Pi 4 (2GB RAM), Scheda SD 16GB, Alimentatore e Cavo HDMI|1|€76,87|[Amazon](https://www.amazon.it/RASPBERRY-PI-Model-Kit-GB/dp/B07TKB6PN4/ref=sr_1_6?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=GC3P8H9J9EFT&keywords=raspberry+pi+4+2gb&qid=1575906470&sprefix=raspberry+pi+4+2%2Caps%2C189&sr=8-6)|No
+Power Bank 20000mAh|1|€19,99|[Amazon](https://www.amazon.it/POWERADD-EnergyCell-Caricabatterie-Portatile-dispositivi/dp/B07K255XJS/ref=sr_1_20?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1NUWQT5CPTZ01&keywords=powerbank+type-c&qid=1575985819&smid=A28QVT3E6UV0FU&sprefix=powerbank+type%2Caps%2C185&sr=8-20)|No
+Display 7' 1024x600|1|€40,00|[Amazon](https://www.amazon.it/GeeekPi-Screen-Display-Monitor-Raspberry/dp/B01M9CLIP9/ref=sr_1_6?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=display+raspberry+7+in&qid=1575906280&sr=8-6)|No
 ESP8266|3|€19,99|[Amazon](https://www.amazon.it/dp/B0754N794H/ref=twister_B07Z6L9GBD?_encoding=UTF8&psc=1)|No
 Anemometro|1|-|-|No|Inutile se risolta questa [Issue](https://github.com/metis-vela-unipd/telemetry-esp-wind/issues/1)
