@@ -16,6 +16,8 @@ ESP8266|3|€19,99|[Amazon](https://www.amazon.it/dp/B0754N794H/ref=twister_B07Z
 Prodotto|Q.tà|Prezzo|Link|Note
 --------|----|------|----|----
 Anemometro|1|-|-|Inutile se risolta questa [Issue](https://github.com/metis-vela-unipd/telemetry-esp-wind/issues/1)
+Antenna GPS|1|-|-
+Antenna Radio|1|-|-
 ## Acquistati
 Prodotto|Q.tà|Prezzo|Link|Note
 --------|----|------|----|----
