@@ -9,7 +9,6 @@ Prodotto|Q.tà|Prezzo|Link|Ordinato|Note
 ## Possibili futuri acquisti
 Prodotto|Q.tà|Prezzo|Link|Note
 --------|----|------|----|----
-Anemometro|1|-|-|Inutile se risolta questa [Issue](https://github.com/metis-vela-unipd/telemetry-esp-wind/issues/1)
 Antenna GPS|1|-|-
 Antenna Radio|1|-|-
 ## Acquistati
