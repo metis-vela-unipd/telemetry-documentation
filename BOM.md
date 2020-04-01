@@ -4,8 +4,8 @@ La lista dei materiali è composta da tre tabelle:
 * **Possibili futuri acquisti:** Articoli che non necessitano di essere acquistati attualmente o che non sono ancora stati approvati.
 * **Acquistati:** Articoli acquistati e ricevuti.
 ## Da acquistare
-Prodotto|Q.tà|Prezzo|Link|Ordinato|Note
---------|----|------|----|--------|----
+Prodotto|Q.tà|Prezzo|Link|Note
+--------|----|------|----|----
 ## Possibili futuri acquisti
 Prodotto|Q.tà|Prezzo|Link|Note
 --------|----|------|----|----
