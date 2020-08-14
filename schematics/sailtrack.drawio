@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T23:52:28.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="HgtXQzb0Hk4xkp0o8ozv" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T23:54:32.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="7j0CDpk9--7CHhGkLr4o" version="13.6.2" type="github" pages="2">
   <diagram id="V4FTzWyZD4six6puE1jL" name="Block Scheme">
     <mxGraphModel dx="1395" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -123,6 +123,17 @@
         </mxCell>
         <mxCell id="_kuUMLCEP43ewe5qfL54-45" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Power Button&lt;br&gt;(+ LED)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="g20sDvktE_r00n4ZqlQJ" name="BOM">
+    <mxGraphModel dx="1186" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="J0wIaJuEciS36xcbJnE0-0" />
+        <mxCell id="J0wIaJuEciS36xcbJnE0-1" parent="J0wIaJuEciS36xcbJnE0-0" />
+        <mxCell id="zVRxYPOZLo6mRkJVQPG_-0" value="Bill Of Materials" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;FType=g;fontStyle=0;fontSize=34;labelBorderColor=none;" vertex="1" parent="J0wIaJuEciS36xcbJnE0-1">
+          <mxGeometry x="80" y="40" width="1000" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
