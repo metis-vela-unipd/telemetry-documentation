@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T22:51:02.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="IoI1fD7yAwnWKLf2iIG8" version="13.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-29T10:45:32.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="JfVq6H7L7kG1pmXvGgh6" version="13.7.6" type="github" pages="2">
   <diagram id="V4FTzWyZD4six6puE1jL" name="Block Scheme">
-    <mxGraphModel dx="1383" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_kuUMLCEP43ewe5qfL54-1" value="SailTrack - Sailing Performance Tracker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;FType=g;fontStyle=0;fontSize=34;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="1000" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_kuUMLCEP43ewe5qfL54-2" target="m0Zs0m2nP7xKabFZ2qHC-1">
+        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="_kuUMLCEP43ewe5qfL54-2" target="m0Zs0m2nP7xKabFZ2qHC-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-9" value="HAT (I&lt;sup&gt;2&lt;/sup&gt;C)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="m0Zs0m2nP7xKabFZ2qHC-5">
+        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-9" value="HAT (I&lt;sup&gt;2&lt;/sup&gt;C)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="m0Zs0m2nP7xKabFZ2qHC-5" vertex="1" connectable="0">
           <mxGeometry x="-0.4723" y="2" relative="1" as="geometry">
             <mxPoint x="7.529999999999999" y="-13" as="offset" />
           </mxGeometry>
@@ -18,7 +18,7 @@
         <mxCell id="_kuUMLCEP43ewe5qfL54-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Raspberry Pi Zero W&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="430" y="333" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_kuUMLCEP43ewe5qfL54-5" target="m0Zs0m2nP7xKabFZ2qHC-1">
+        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="_kuUMLCEP43ewe5qfL54-5" target="m0Zs0m2nP7xKabFZ2qHC-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_kuUMLCEP43ewe5qfL54-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;18650 Li-Ion Battery&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;align=center;" parent="1" vertex="1">
@@ -80,10 +80,10 @@
         <mxCell id="_kuUMLCEP43ewe5qfL54-36" value="&lt;font style=&quot;font-size: 18px&quot;&gt;IMU&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="459" y="489" width="93" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_kuUMLCEP43ewe5qfL54-45" target="_kuUMLCEP43ewe5qfL54-2">
+        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="_kuUMLCEP43ewe5qfL54-45" target="_kuUMLCEP43ewe5qfL54-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-8" value="GPIO" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="m0Zs0m2nP7xKabFZ2qHC-7">
+        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-8" value="GPIO" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="m0Zs0m2nP7xKabFZ2qHC-7" vertex="1" connectable="0">
           <mxGeometry x="-0.5388" y="-2" relative="1" as="geometry">
             <mxPoint x="5" y="41.35" as="offset" />
           </mxGeometry>
@@ -91,34 +91,117 @@
         <mxCell id="_kuUMLCEP43ewe5qfL54-45" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Power Button&lt;br&gt;(+ LED)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="500" y="198" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="m0Zs0m2nP7xKabFZ2qHC-1" target="_kuUMLCEP43ewe5qfL54-11">
+        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="m0Zs0m2nP7xKabFZ2qHC-1" target="_kuUMLCEP43ewe5qfL54-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Battery Manager (UPS)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="m0Zs0m2nP7xKabFZ2qHC-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Battery Manager&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="870" y="328" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="g20sDvktE_r00n4ZqlQJ" name="BOM">
-    
-    <mxGraphModel dx="1186" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      
+    <mxGraphModel dx="1186" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
-        
         <mxCell id="J0wIaJuEciS36xcbJnE0-0" />
-        
         <mxCell id="J0wIaJuEciS36xcbJnE0-1" parent="J0wIaJuEciS36xcbJnE0-0" />
-        
-        <mxCell id="zVRxYPOZLo6mRkJVQPG_-0" value="Bill Of Materials" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;FType=g;fontStyle=0;fontSize=34;labelBorderColor=none;" vertex="1" parent="J0wIaJuEciS36xcbJnE0-1">
-          
+        <mxCell id="zVRxYPOZLo6mRkJVQPG_-0" value="Bill Of Materials" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;FType=g;fontStyle=0;fontSize=34;labelBorderColor=none;" parent="J0wIaJuEciS36xcbJnE0-1" vertex="1">
           <mxGeometry x="80" y="40" width="1000" height="40" as="geometry" />
-          
         </mxCell>
-        
+        <mxCell id="swTAbGG_jr6sJvMOWJmU-0" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=left;" vertex="1" parent="J0wIaJuEciS36xcbJnE0-1">
+          <mxGeometry x="80" y="90" width="400" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="swTAbGG_jr6sJvMOWJmU-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-0">
+          <mxGeometry width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="swTAbGG_jr6sJvMOWJmU-13" value="Item" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;fontStyle=0;fontSize=14;labelBackgroundColor=#ffffff;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-1">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="stU41vpISu0B3aDedvye-0" value="Link" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;fontStyle=0;fontSize=14;labelBackgroundColor=#ffffff;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-1">
+          <mxGeometry x="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6GGmmSEp0erdpaBIMSD-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-0">
+          <mxGeometry y="30" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6GGmmSEp0erdpaBIMSD-4" value="Raspberry Pi Zero W" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;fontStyle=0;fontSize=14;labelBackgroundColor=#ffffff;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="f6GGmmSEp0erdpaBIMSD-3">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6GGmmSEp0erdpaBIMSD-5" value="&lt;a href=&quot;https://www.amazon.it/Raspberry-Pi%C2%AE-Zero-WH-512/dp/B07C7FHJDX/ref=sr_1_7?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;dchild=1&amp;amp;keywords=raspberry+pi+zero+w&amp;amp;qid=1601373645&amp;amp;quartzVehicle=3443-1379&amp;amp;replacementKeywords=raspberry+pi+w&amp;amp;sr=8-7&quot;&gt;Amazon&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;fontStyle=0;fontSize=14;labelBackgroundColor=#ffffff;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="f6GGmmSEp0erdpaBIMSD-3">
+          <mxGeometry x="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="swTAbGG_jr6sJvMOWJmU-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-0">
+          <mxGeometry y="60" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="swTAbGG_jr6sJvMOWJmU-14" value="E-Ink 4.2&#39; Display" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-5">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="stU41vpISu0B3aDedvye-1" value="&lt;a href=&quot;https://www.amazon.it/Waveshare-Resolution-Electronic-Interface-Raspberry/dp/B0751J99PS/ref=sr_1_3_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;dchild=1&amp;amp;keywords=e+ink+display&amp;amp;qid=1601373360&amp;amp;sr=8-3-spons&amp;amp;psc=1&amp;amp;smid=A9VM8DGMD224G&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMVZVNllZNTFOWVZEJmVuY3J5cHRlZElkPUEwOTc4NTUzSzc1VjM2QkhZWEFUJmVuY3J5cHRlZEFkSWQ9QTA1MTU0NzEzM1BITUxRMFNKRDQ1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==&quot;&gt;Amazon&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-5">
+          <mxGeometry x="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="swTAbGG_jr6sJvMOWJmU-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-0">
+          <mxGeometry y="90" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="swTAbGG_jr6sJvMOWJmU-15" value="Power Button (+ LED)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-9">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="stU41vpISu0B3aDedvye-2" value="&lt;a href=&quot;https://www.amazon.it/Larcele-Impermeabile-Momentaneo-Automatico-JSANKG-02/dp/B075ZRDMTX/ref=sr_1_16?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;dchild=1&amp;amp;keywords=pulsante+impermeabile&amp;amp;qid=1601373789&amp;amp;sr=8-16&quot;&gt;Amazon&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-9">
+          <mxGeometry x="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n21u5j1O_73HzfMrI5Ei-0" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-0">
+          <mxGeometry y="120" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n21u5j1O_73HzfMrI5Ei-1" value="18650 Li-Ion Battery" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="n21u5j1O_73HzfMrI5Ei-0">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n21u5j1O_73HzfMrI5Ei-2" value="&lt;a href=&quot;https://it.banggood.com/2PCS-MECO-3_7v-4000mAh-Protected-Rechargeable-18650-Li-ion-Battery-p-992718.html?rmmds=search&amp;amp;cur_warehouse=CN&quot;&gt;Banggood&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="n21u5j1O_73HzfMrI5Ei-0">
+          <mxGeometry x="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n21u5j1O_73HzfMrI5Ei-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-0">
+          <mxGeometry y="150" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n21u5j1O_73HzfMrI5Ei-4" value="Battery Manager" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="n21u5j1O_73HzfMrI5Ei-3">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n21u5j1O_73HzfMrI5Ei-5" value="&lt;a href=&quot;https://www.sparkfun.com/products/13777&quot;&gt;Sparkfun&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="n21u5j1O_73HzfMrI5Ei-3">
+          <mxGeometry x="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5ZOmtGHmF22ndBnYlm-0" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-0">
+          <mxGeometry y="180" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5ZOmtGHmF22ndBnYlm-1" value="Qi Receiver" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="BB5ZOmtGHmF22ndBnYlm-0">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BB5ZOmtGHmF22ndBnYlm-2" value="&lt;a href=&quot;https://www.amazon.it/ZXK-Universale-Caricabatterie-Ricevitore-Cellulare/dp/B01E15W6MO/ref=sr_1_15?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;dchild=1&amp;amp;keywords=ricevitore+qi&amp;amp;qid=1601374405&amp;amp;sr=8-15&quot;&gt;Amazon&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="BB5ZOmtGHmF22ndBnYlm-0">
+          <mxGeometry x="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="624UGNo4qDC2qYEoEb8o-0" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-0">
+          <mxGeometry y="210" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="624UGNo4qDC2qYEoEb8o-1" value="LoRa" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="624UGNo4qDC2qYEoEb8o-0">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="624UGNo4qDC2qYEoEb8o-2" value="&lt;a href=&quot;https://www.amazon.it/OSOYOO-Wireless-Ricevitore-Compatibile-Microcomputer/dp/B07TK6R4H8/ref=sr_1_15?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;dchild=1&amp;amp;keywords=modulo+lora&amp;amp;qid=1601374735&amp;amp;sr=8-15&quot;&gt;Amazon&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="624UGNo4qDC2qYEoEb8o-0">
+          <mxGeometry x="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNiHy7CDCkzqraGHz1Gg-0" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-0">
+          <mxGeometry y="240" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNiHy7CDCkzqraGHz1Gg-1" value="GPS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="iNiHy7CDCkzqraGHz1Gg-0">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNiHy7CDCkzqraGHz1Gg-2" value="&lt;a href=&quot;https://www.adafruit.com/product/746&quot;&gt;Adafruit&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="iNiHy7CDCkzqraGHz1Gg-0">
+          <mxGeometry x="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNiHy7CDCkzqraGHz1Gg-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="swTAbGG_jr6sJvMOWJmU-0">
+          <mxGeometry y="270" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNiHy7CDCkzqraGHz1Gg-4" value="IMU" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="iNiHy7CDCkzqraGHz1Gg-3">
+          <mxGeometry width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNiHy7CDCkzqraGHz1Gg-5" value="&lt;a href=&quot;https://www.adafruit.com/product/2472&quot;&gt;Adafruit&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="iNiHy7CDCkzqraGHz1Gg-3">
+          <mxGeometry x="200" width="200" height="30" as="geometry" />
+        </mxCell>
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
 </mxfile>
